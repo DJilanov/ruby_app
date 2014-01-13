@@ -17,7 +17,7 @@ The easy usable comment app that will be attached to my personal blog so everyon
 * Easy understandable
 * Will be improved to be better for you when you give me some feedback
 
-## Requirements ( if you want to fork and help me with the improvements )
+### Requirements ( if you want to fork and help me with the improvements )
 
 
 * Ruby version - 1.9.3
